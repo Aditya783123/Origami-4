@@ -1,0 +1,31 @@
+.header{
+    color: #467382;
+    margin: 25px;
+    padding: 50;
+}
+.bodyimg{
+    position:relative;
+}
+.bodyimg h3{
+    color:white;
+    font-size:25px;
+    font-family:'Arial';
+    width:1600px;
+    position:absolute;
+    top:40%;
+    left:45%;
+    transform:translate(-40%, -40%)
+}
+.bodyimg p{
+    color:white;
+    font-size:45px;
+    font-family:'Comic Sans MS';
+    position:absolute;
+    top:10%;
+    left:50%;
+    transform:translate(-50%, -50%)
+}
+
+.menu{
+    color: #023948;
+}
